@@ -9,4 +9,4 @@ Este proyecto es una practica para aprender a usar Github
 -Javascript 
 
 ## Autor 
-Manuel zazueta
+Jose Angel Benitez Carrasco
